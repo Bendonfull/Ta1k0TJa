@@ -4,7 +4,7 @@
 
 B站「Donfullcombo」頻道的TJA譜面存放區。
 
-- 為避免被版權下架，這裡只會放TJA檔案和OPT/TJA Player資料夾檔案，ogg音訊請「另尋方法」。
+- 為避免被版權下架，這裡只會放TJA檔案和OPT/TJA Player資料夾檔案，ogg音檔請「另尋方法」。
 
 ---
 
